@@ -1,4 +1,6 @@
 # honest_abe_sprites
+**Version** 1.0.0
+
 The visual 2D art assets for the Honest Abe Unity game.
 
 ## Root Folder Structure:
