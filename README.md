@@ -1,7 +1,12 @@
 # honest_abe_sprites
 The visual 2D art assets for the Honest Abe Unity game.
 
-Root Folder Structure
-- 2d: Subfolders, by file type
-  - PNG Assets for 2D Images (perferably power or 2 size)
-  - PNG Assets for 2D Spritesheets
+## Root Folder Structure:
+ * Concepts/ - concept art
+ * Images/ - Unity "sprites", organized by category
+  - Ballroom/ - Ballroom-specific sprites
+  - Forest/ - Forest-specific sprites
+  - Props/ - items or props not specific to any one level
+  - UI/ - GUI sprites
+ * SpriteSheets/ - 3D model textures
+ * Vectors/ - orignal copies of vector art
