@@ -1,3 +1,6 @@
+# Deprecated
+This repository is no longer active. All new 2D art should be added directly to the Unity project: https://github.com/Tlmader/honest-abe
+
 # honest_abe_sprites
 **Version** 1.0.0
 
